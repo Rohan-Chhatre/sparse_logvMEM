@@ -12,6 +12,7 @@ For questions about the code or paper, please contact:
 **Rohan Chhatre**  
 Department of Statistics, University of Connecticut  
 GitHub: [Rohan-Chhatre](https://github.com/Rohan-Chhatre)
+
 Email: [rohan.chhatre@uconn.edu](mailto:rohan.chhatre@uconn.edu)
 
 ## Acknowledgements
