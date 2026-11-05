@@ -2,7 +2,7 @@
 
 This repository contains the R code and selected outputs associated with the paper:
 
-> **Scalable Regularized Vector Multiplicative Error Models for Positive-valued Financial Time Series**  
+> **GPU-accelerated Regularized Vector Multiplicative Error Models for Positive-valued Financial Time Series**  
 > Authors: Rohan Hemant Chhatre, Nalini Ravishanker, Sumanta Basu, and Chiranjit Dutta
 
 ## Contact
