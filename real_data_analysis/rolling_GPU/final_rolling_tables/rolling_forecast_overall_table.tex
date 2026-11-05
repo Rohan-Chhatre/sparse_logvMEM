@@ -1,0 +1,24 @@
+\begin{table}[H]
+\centering
+\caption{Five-step-ahead rolling forecast accuracy for MSFT. Forecast accuracy measures are averaged across five realized volatility measures, five forecast horizons, and 27 rolling forecast origins. For each penalized model family and forecast origin, the regularization parameter is selected by BIC.}
+\label{tab:rolling_forecast_accuracy}
+\begin{tabular}{lrrr}
+\hline
+Model & MSE & MAD & MAPE \\
+\hline
+No penalty & 0.104721 & 0.257497 & 0.316914 \\
+Componentwise-Adaptive Group Lasso & 0.086651 & 0.230365 & 0.278056 \\
+Componentwise-Group Lasso & 0.089616 & 0.235081 & 0.285232 \\
+Componentwise-Group MCP & 0.101005 & 0.251024 & 0.308128 \\
+Componentwise-Group SCAD & 0.102545 & 0.255109 & 0.312594 \\
+Elementwise-Adaptive Group Lasso & 0.086256 & 0.229436 & 0.277179 \\
+Elementwise-Group Lasso & 0.088074 & 0.232127 & 0.280858 \\
+Elementwise-Group MCP & 0.102094 & 0.254160 & 0.310971 \\
+Elementwise-Group SCAD & 0.100996 & 0.253020 & 0.309151 \\
+Own-Other-Adaptive Group Lasso & \textbf{0.083664} & \textbf{0.225738} & \textbf{0.270386} \\
+Own-Other-Group Lasso & 0.087355 & 0.231622 & 0.279966 \\
+Own-Other-Group MCP & 0.099955 & 0.251314 & 0.306463 \\
+Own-Other-Group SCAD & 0.097592 & 0.248891 & 0.303252 \\
+\hline
+\end{tabular}
+\end{table}
