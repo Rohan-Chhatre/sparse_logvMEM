@@ -1,4 +1,4 @@
-# Scalable Regularized Vector Multiplicative Error Models for Positive-valued Financial Time Series
+# GPU-accelerated Regularized Vector Multiplicative Error Models for Positive-valued Financial Time Series
 
 This repository contains the R code and selected outputs associated with the paper:
 
