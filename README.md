@@ -2,7 +2,7 @@
 
 This repository contains R code and selected computational outputs accompanying the manuscript **“GPU-accelerated Regularized Vector Multiplicative Error Models for Positive-valued Financial Time Series”**, prepared for submission to *Computational Statistics*.
 
-**Authors (manuscript order):** Rohan Hemant Chhatre, Chiranjit Dutta, Sumanta Basu, and Nalini Ravishanker.
+**Authors:** Rohan Hemant Chhatre, Chiranjit Dutta, Sumanta Basu, and Nalini Ravishanker.
 
 ## Overview
 
