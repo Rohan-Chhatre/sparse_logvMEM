@@ -53,4 +53,4 @@ Until this work is published in a peer reviewed journal, please cite the pre-pri
       url={https://arxiv.org/abs/2610.08443}, 
 }`
 
-We request you to cite the associated manuscript when using this code. The final bibliographic reference and DOI can be added following publication.
+We request you to cite the associated manuscript when using this code. The final bibliographic reference and DOI will be added following publication.
