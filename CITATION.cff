@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "Code for: GPU-accelerated Regularized Vector Multiplicative Error Models for Positive-valued Financial Time Series"
+type: software
+authors:
+  - family-names: "Chhatre"
+    given-names: "Rohan Hemant"
+    orcid: "https://orcid.org/0009-0007-1200-0832"
+  - family-names: "Dutta"
+    given-names: "Chiranjit"
+  - family-names: "Basu"
+    given-names: "Sumanta"
+  - family-names: "Ravishanker"
+    given-names: "Nalini"
+repository-code: "https://github.com/Rohan-Chhatre/sparse_logvMEM"
+version: "1.0.0"
+date-released: "2026-11-09"
+preferred-citation:
+  type: misc
+  title: "GPU-accelerated Regularized Vector Multiplicative Error Models for Positive-valued Financial Time Series"
+  authors:
+  - family-names: "Chhatre"
+    given-names: "Rohan Hemant"
+  - family-names: "Dutta"
+    given-names: "Chiranjit"
+  - family-names: "Basu"
+    given-names: "Sumanta"
+  - family-names: "Ravishanker"
+    given-names: "Nalini"
+  eprint={2610.08443},
+  archivePrefix={arXiv},
+  primaryClass={stat.CO},
+  url={https://arxiv.org/abs/2610.08443},
+  year: 2026
+  doi: "10.48550/arXiv.2610.08443"
