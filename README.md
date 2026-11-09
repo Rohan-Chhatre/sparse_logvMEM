@@ -43,7 +43,7 @@ The authors thank the University of Connecticut Storrs HPC support staff for mai
 
 Until this work is published in a peer reviewed journal, please cite the pre-print of this manuscript:
 
-@misc{chhatre2026gpuacceleratedregularizedvectormultiplicative,
+`@misc{chhatre2026gpuacceleratedregularizedvectormultiplicative,
       title={GPU-accelerated Regularized Vector Multiplicative Error Models for Positive-valued Financial Time Series}, 
       author={Rohan Hemant Chhatre and Chiranjit Dutta and Nalini Ravishanker and Sumanta Basu},
       year={2026},
@@ -51,5 +51,6 @@ Until this work is published in a peer reviewed journal, please cite the pre-pri
       archivePrefix={arXiv},
       primaryClass={stat.CO},
       url={https://arxiv.org/abs/2610.08443}, 
-}
+}`
+
 We request you to cite the associated manuscript when using this code. The final bibliographic reference and DOI can be added following publication.
