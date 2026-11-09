@@ -19,9 +19,9 @@ The paper studies sparse logarithmic vector multiplicative error models (log-vME
 
 The study estimates unpenalized and penalized log-vMEMs, performs simulation-based parameter and structure recovery assessments, and evaluates five realized-volatility measures constructed from Microsoft (MSFT) intraday transactions. The rolling-window assessment covers 27 forecast origins and compares forecast horizons 1–5.
 
-The CPU and GPU programs serve different computational purposes. GPU scripts rely on a CUDA-compatible environment and the R `torch` interface; the rolling workflow also uses SLURM array-task configuration. Full rolling fits are computationally intensive. The repository is intended to provide code and supporting materials, **not** to imply that a complete multi-origin refit can be performed with a single command on an ordinary laptop.
+The CPU and GPU programs serve different computational purposes. GPU scripts rely on a CUDA-compatible environment and the R `torch` interface; the rolling workflow also uses SLURM array-task configuration. Full rolling fits are computationally intensive.
 
-## Data provenance and availability
+## Data availability
 
 The empirical study uses five daily realized-volatility measures derived from MSFT transaction-level data covering 2010–2015. The `data/` directory contains the preprocessed data used in this study.
 
