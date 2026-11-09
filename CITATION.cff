@@ -27,9 +27,9 @@ preferred-citation:
     given-names: "Sumanta"
   - family-names: "Ravishanker"
     given-names: "Nalini"
-  eprint={2610.08443},
-  archivePrefix={arXiv},
-  primaryClass={stat.CO},
-  url={https://arxiv.org/abs/2610.08443},
+  eprint: {2610.08443},
+  archivePrefix: {arXiv},
+  primaryClass: {stat.CO},
+  url: {https://arxiv.org/abs/2610.08443},
   year: 2026
   doi: "10.48550/arXiv.2610.08443"
